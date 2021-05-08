@@ -1,3 +1,0 @@
-
-3aa5e0861ffe0e6565aa5e8301b93590
-http://api.openweathermap.org/data/2.5/forecast/daily?id=524901&APPID=3aa5e0861ffe0e6565aa5e8301b93590
